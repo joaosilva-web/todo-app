@@ -1,4 +1,5 @@
-import styles from './global.module.css'
+import "./globals.css";
+import styles from "./app.module.css"
 
 function App() {
 
